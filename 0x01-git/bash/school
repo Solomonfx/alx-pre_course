@@ -1,5 +1,2 @@
 #!/bin/bash
-echo "The School is open"
-=======
-echo "The School is open"
->>>>>>> master
+echo "The school is open!"
